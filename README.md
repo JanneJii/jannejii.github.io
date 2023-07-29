@@ -11,6 +11,9 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![AE13D919-45CB-4E11-B155-D4696343D7CD_1_102_o](https://github.com/JanneJii/jannejii.github.io/assets/32343145/6b7d4e4d-8564-4f8e-8d42-3ffe5e85c0b6)
+
+
 # My Expertise
 
 My [CV](https://drive.google.com/file/d/1kJrmgdDeuvjgrxCWN_7HmQsOXRIC4NYx/view?usp=sharing)
