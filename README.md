@@ -3,8 +3,6 @@
 
 ![Janne omakuva](https://github.com/JanneJii/jannejii.github.io/assets/32343145/5456f6d6-0c22-4abe-a246-dfde4b61bcfb)
 
-
-
 This site was built using [GitHub Pages](https://pages.github.com/)
 
 
@@ -24,6 +22,11 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 # My Expertise
 
 My [CV](https://drive.google.com/file/d/1kJrmgdDeuvjgrxCWN_7HmQsOXRIC4NYx/view?usp=sharing)
+
+| Project  | Role | Description |
+| ------------- | ------------- | ------------- |
+| My Business Finland  | Product Owner  | Seriously doing things |
+| CIAM  | Content Cell  | XXX | 
 
 You can also check what I'm doing at work from my profile in [LinkedIn](https://www.linkedin.com/in/jannejaalinoja/). 
 
