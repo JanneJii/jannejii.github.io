@@ -2,7 +2,6 @@
 
 ![Janne omakuva](https://github.com/JanneJii/jannejii.github.io/assets/32343145/61337f88-37c5-4bc9-813d-ed77a570baa9)
 
-
 This site was built using [GitHub Pages](https://pages.github.com/)
 
 # Intro
