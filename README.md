@@ -1,5 +1,4 @@
-# Hi there 👋 
-# I'm Janne
+# Hi there 👋 I'm Janne
 
 ![Janne omakuva](https://github.com/JanneJii/jannejii.github.io/assets/32343145/61337f88-37c5-4bc9-813d-ed77a570baa9)
 
