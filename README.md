@@ -14,6 +14,9 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 You can check my profile in [LinkedIn](https://www.linkedin.com/in/jannejaalinoja/). 
 
 # Topics
+
+My [CV](https://drive.google.com/file/d/1kJrmgdDeuvjgrxCWN_7HmQsOXRIC4NYx/view?usp=sharing)
+
 ## Green coding
 ### Sustainable web design
 
