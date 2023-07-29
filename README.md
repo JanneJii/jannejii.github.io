@@ -11,6 +11,8 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+You can check my profile in [LinkedIn](https://www.linkedin.com/in/jannejaalinoja/). 
+
 # Topics
 ## Green coding
 ### Sustainable web design
