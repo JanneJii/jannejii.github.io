@@ -1,10 +1,9 @@
-## Hi there 👋 
-# I'm Janne
+# Hi there 👋 
+I'm Janne
 
 ![Janne omakuva](https://github.com/JanneJii/jannejii.github.io/assets/32343145/5456f6d6-0c22-4abe-a246-dfde4b61bcfb)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
-
 
 # Intro
 - 🔭 I’m currently working on this site
@@ -15,9 +14,6 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
 
 # My Expertise
 
