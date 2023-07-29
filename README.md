@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Janne
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-# A Intro
+# Intro
 - 🔭 I’m currently working on this site
 - 🌱 I’m currently learning github, node.js, static site generators, etc.
 - 👯 I’m looking to collaborate on ...
@@ -11,9 +11,9 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# A Topics
-## A Green coding
-### A Sustainable web design
+# Topics
+## Green coding
+### Sustainable web design
 
 - 
 
