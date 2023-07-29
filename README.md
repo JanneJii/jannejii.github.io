@@ -1,5 +1,12 @@
-### Hi there 👋 I'm Janne
+## Hi there 👋 
+# I'm Janne
+
+![Janne omakuva](https://github.com/JanneJii/jannejii.github.io/assets/32343145/5456f6d6-0c22-4abe-a246-dfde4b61bcfb)
+
+
+
 This site was built using [GitHub Pages](https://pages.github.com/)
+
 
 # Intro
 - 🔭 I’m currently working on this site
@@ -11,7 +18,7 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![AE13D919-45CB-4E11-B155-D4696343D7CD_1_102_o](https://github.com/JanneJii/jannejii.github.io/assets/32343145/6b7d4e4d-8564-4f8e-8d42-3ffe5e85c0b6)
+
 
 
 # My Expertise
