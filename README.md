@@ -11,11 +11,13 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-You can check my profile in [LinkedIn](https://www.linkedin.com/in/jannejaalinoja/). 
-
-# Topics
+# My Expertise
 
 My [CV](https://drive.google.com/file/d/1kJrmgdDeuvjgrxCWN_7HmQsOXRIC4NYx/view?usp=sharing)
+
+You can also check what I'm doing at work from my profile in [LinkedIn](https://www.linkedin.com/in/jannejaalinoja/). 
+
+# My Focus
 
 ## Green coding
 ### Sustainable web design
